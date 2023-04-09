@@ -61,8 +61,8 @@ By leveraging omics technologies, we aim to provide more accurate brain tumour c
 
 1. Clone the repository:
 ```python
-git clone https://github.com/yourcompany/brain-tumor-management.git
-cd brain-tumor-management
+git clone https://github.com/Omneer/omneer.git
+cd omneer
 ```
 
 2. Set up a virtual environment and activate it:
