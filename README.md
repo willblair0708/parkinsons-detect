@@ -5,15 +5,18 @@ This repository contains the source code, data, and documentation for our compan
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
+    - [Omics Technologies](#omics-technologies)
+    - [Biomarkers](#biomarkers)
+    - [Data Analysis](#data-analysis)
+3. [Getting Started](#getting-started)
     - [Requirements](#requirements)
     - [Installation](#installation)
-3. [Usage](#usage)
+4. [Usage](#usage)
     - [Early Detection Model](#early-detection-model)
     - [Personalized Treatment Plans](#personalized-treatment-plans)
     - [Patient Monitoring and Treatment Adjustment](#patient-monitoring-and-treatment-adjustment)
-4. [Contributing](#contributing)
-5. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 
@@ -25,18 +28,18 @@ Our solution comprises three main components:
 
 Current brain tumour diagnosis relies on surgical biopsy and light microscopic examination of tissue, which has several drawbacks. Our goal is to investigate new 'omics' technologies such as genomics, proteomics, and metabolomics for brain tumour diagnosis and improved classification systems.
 
-## Omics Technologies
+### Omics Technologies
 - Genomics: Involves studying the gene content of tumour cells to predict outcome and individualize treatment.
 - Proteomics: Analyzes the protein content of tumour cells to identify biomarker signatures and potential drug targets.
 - Metabolomics: Examines the metabolite content of tumour cells for distinct metabolic profiles of different tumour types and normal brain tissue.
 
-## Biomarkers
+### Biomarkers
 - Biomarker signatures improve diagnostic accuracy compared to individual biomarkers.
 - Serum biomarkers: Focuses on blood, which is easily accessible and may contain molecules related to disrupted blood-brain barriers in brain tumour patients.
 - Cerebrospinal fluid (CSF) biomarkers: Although more invasive, CSF may contain higher levels of potential biomarkers than serum.
 - Tissue biomarkers: Can help in classifying tumours, predicting outcomes, and determining optimal treatment.
 
-## Data Analysis
+### Data Analysis
 - Complex data generated from biomarker discovery experiments require specialized pattern recognition software.
 - Unsupervised cluster analysis and the training-and-testing set approach are two common methods for developing classifiers.
 
