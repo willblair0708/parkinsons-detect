@@ -1,6 +1,6 @@
-# Omneer: Personalized Medicine and AI-driven Solutions for Brain Tumor Management
+# Omneer: Personalized Medicine and AI-driven Solutions for Neuroscience
 
-This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions for brain tumor management. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
+This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions for neuroscience diseases. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
 
 ## Table of Contents
 
