@@ -53,8 +53,7 @@ By leveraging omics technologies, we aim to provide more accurate brain tumour c
 - numpy
 - pandas
 - scikit-learn
-- TensorFlow
-- Keras
+- PyTorch
 - Flask
 
 ### Installation
