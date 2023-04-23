@@ -2,6 +2,8 @@
 
 This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
 
+We begun by building insights for pacemaker data which began from ThermoBeat (creation of thermoelectric pacemakers). We are strongly motivated by the potential in cardiac and neuroscience for early diagnosis. 
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
