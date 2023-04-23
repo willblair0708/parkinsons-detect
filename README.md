@@ -1,6 +1,6 @@
-# Omneer: Personalized Medicine and AI-driven Solutions for Neuroscience
+# Omneer: Personalized Medicine and AI-driven Solutions
 
-This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions for neuroscience diseases. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
+This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
 
 ## Table of Contents
 
@@ -29,6 +29,7 @@ Our solution comprises three main components:
 Current brain tumour diagnosis relies on surgical biopsy and light microscopic examination of tissue, which has several drawbacks. Our goal is to investigate new 'omics' technologies such as genomics, proteomics, and metabolomics for brain tumour diagnosis and improved classification systems.
 
 ### Omics Technologies
+- Wearables data: collecting vitals data to understand long-term changes in health. 
 - Genomics: Involves studying the gene content of tumour cells to predict outcome and individualize treatment.
 - Proteomics: Analyzes the protein content of tumour cells to identify biomarker signatures and potential drug targets.
 - Metabolomics: Examines the metabolite content of tumour cells for distinct metabolic profiles of different tumour types and normal brain tissue.
