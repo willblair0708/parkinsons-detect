@@ -1,4 +1,4 @@
-# Omneer: Personalized Medicine and AI-driven Solutions
+# Parkinson's Detection using Blood Biomarkers
 
 This repository contains the source code, data, and documentation for our company's AI-driven personalized medicine solutions. Our goal is to revolutionize the diagnosis, treatment, and monitoring of brain tumors by leveraging artificial intelligence and personalized medicine.
 
